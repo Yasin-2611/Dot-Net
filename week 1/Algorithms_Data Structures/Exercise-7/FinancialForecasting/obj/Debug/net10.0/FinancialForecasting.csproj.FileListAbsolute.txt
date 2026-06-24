@@ -1,0 +1,14 @@
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Desktop\COGNIZANT\Week1-Engineering-SQL\Engineering Concepts\Algorithms_Data Structures\Exercise-7\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll
