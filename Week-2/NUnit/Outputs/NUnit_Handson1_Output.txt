@@ -1,0 +1,16 @@
+Created At: 2026-07-03T19:54:55Z
+Completed At: 2026-07-03T19:55:02Z
+
+				The command completed successfully.
+				Output:
+				  Determining projects to restore...
+  All projects are up-to-date for restore.
+  CalcLibrary -> C:\Cognizant_Task\Week-2\NUnit\Hands-on\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+  CalcLibrary.Tests -> C:\Cognizant_Task\Week-2\NUnit\Hands-on\CalcLibrary.Tests\bin\Debug\net8.0\CalcLibrary.Tests.dll
+Test run for C:\Cognizant_Task\Week-2\NUnit\Hands-on\CalcLibrary.Tests\bin\Debug\net8.0\CalcLibrary.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:    15, Skipped:     0, Total:    15, Duration: 46 ms - CalcLibrary.Tests.dll (net8.0)

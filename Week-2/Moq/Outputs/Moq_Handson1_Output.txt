@@ -1,0 +1,13 @@
+Determining projects to restore...
+All projects are up-to-date for restore.
+CurrencyConverterApp -> C:\Cognizant_Task\Week-2\Moq\AllProjects\CurrencyConverterApp\bin\Debug\net8.0\CurrencyConverterApp.dll
+ConverterLib -> C:\Cognizant_Task\Week-2\Moq\AllProjects\ConverterLib\ConverterLib\bin\Debug\net8.0\ConverterLib.dll
+ConverterLib.Tests -> C:\Cognizant_Task\Week-2\Moq\ConverterLib.Tests\bin\Debug\net8.0\ConverterLib.Tests.dll
+Test run for C:\Cognizant_Task\Week-2\Moq\ConverterLib.Tests\bin\Debug\net8.0\ConverterLib.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Results File: C:\Cognizant_Task\Week-2\Moq\ConverterLib.Tests\TestResults\TestResults.trx
+
+Passed!  - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 415 ms - ConverterLib.Tests.dll (net8.0)

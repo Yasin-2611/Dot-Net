@@ -1,0 +1,15 @@
+  Determining projects to restore...
+All projects are up-to-date for restore.
+C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\User.cs(12,23): warning CS8618: Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\UserManagerLib.csproj]
+C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\User.cs(13,23): warning CS8618: Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\UserManagerLib.csproj]
+C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\User.cs(14,23): warning CS8618: Non-nullable property 'EmailId' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\UserManagerLib.csproj]
+C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\User.cs(15,23): warning CS8618: Non-nullable property 'PANCardNo' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable. [C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\UserManagerLib.csproj]
+UserManagerLib -> C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib\bin\Debug\net8.0\UserManagerLib.dll
+UserManagerLib.Tests -> C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib.Tests\bin\Debug\net8.0\UserManagerLib.Tests.dll
+Test run for C:\Cognizant_Task\Week-2\NUnit\Hands-on\UserManagerLib\UserManagerLib.Tests\bin\Debug\net8.0\UserManagerLib.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     6, Skipped:     0, Total:     6, Duration: 68 ms - UserManagerLib.Tests.dll (net8.0)

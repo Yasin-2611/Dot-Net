@@ -1,0 +1,10 @@
+Changed database context to 'CognizantDB'.
+CategoryFor60000    
+--------------------
+Premium             
+
+(1 rows affected)
+CustomerID  CustomerName                                                                                         City                                               Balance     
+----------- ---------------------------------------------------------------------------------------------------- -------------------------------------------------- ------------
+
+(0 rows affected)

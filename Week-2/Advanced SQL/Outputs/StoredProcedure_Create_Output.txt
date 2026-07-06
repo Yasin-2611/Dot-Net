@@ -1,0 +1,5 @@
+Changed database context to 'CognizantDB'.
+Msg 102, Level 15, State 1, Server LAPTOP-UU9HIIPU\SQLEXPRESS, Line 3
+Incorrect syntax near ';'.
+CustomerID  CustomerName                                                                                         City                                               Balance     
+----------- ---------------------------------------------------------------------------------------------------- -------------------------------------------------- ------------
